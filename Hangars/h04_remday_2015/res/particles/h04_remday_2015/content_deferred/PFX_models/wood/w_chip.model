@@ -1,0 +1,8 @@
+<w_chip.model>
+  <materialNames></materialNames>
+  <visibilityBox>
+    <min>	-0.555204 -0.0545483 -4.48313	</min>
+    <max>	0.555204 0.0545483 4.48313	</max>
+  </visibilityBox>
+  <nodelessVisual>	particles/h04_remday_2015/content_deferred/PFX_models/wood/w_chip	</nodelessVisual>
+</w_chip.model>
