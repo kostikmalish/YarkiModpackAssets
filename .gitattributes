@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Keep signed Yarki manifests byte-for-byte stable.
+installer-manifest.json text eol=lf
+mods-manifest.json text eol=lf
+manifest/installer-manifest.json text eol=lf
+manifest/mods-manifest.json text eol=lf
+*.sig binary
