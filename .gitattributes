@@ -6,3 +6,5 @@ mods-manifest.json text eol=lf
 manifest/installer-manifest.json text eol=lf
 manifest/mods-manifest.json text eol=lf
 *.sig binary
+# Mod resources are payload bytes, even when a file looks like text.
+Hangars/** -text
