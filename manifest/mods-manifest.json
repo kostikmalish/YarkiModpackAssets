@@ -3,7 +3,7 @@
     "regions":  [
                     {
                         "region":  "RU",
-                        "display_version":  "1.44.0.0 #8",
+                        "display_version":  "1.44.0.0 #9",
                         "game_version":  "1.44.0.0",
                         "enabled":  true,
                         "files":  [
@@ -8572,7 +8572,7 @@
                     },
                     {
                         "region":  "EU",
-                        "display_version":  "2.3.1.0 #8",
+                        "display_version":  "2.3.1.0 #9",
                         "game_version":  "2.3.1.0",
                         "enabled":  false,
                         "files":  [
