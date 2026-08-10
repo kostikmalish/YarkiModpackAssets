@@ -1,0 +1,10 @@
+<root>
+	<metaData>
+		<checksum> F4A5D0C78FF5237E89B5FD516978DD8D </checksum>
+	</metaData>
+	<nodelessVisual>	particles/hangar_premium_2018/mesh_particles/wood_board_03	</nodelessVisual>
+	<visibilityBox>
+		<min> -0.0390139 -0.0118842 -0.393417 </min>
+		<max> 0.0411151 0.0118842 0.161026 </max>
+	</visibilityBox>
+</root>

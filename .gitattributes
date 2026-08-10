@@ -9,3 +9,4 @@ manifest/mods-manifest.json text eol=lf
 # Mod resources are payload bytes, even when a file looks like text.
 Hangars/** -text
 manifest/version.txt text eol=lf
+Switcher/** -text
