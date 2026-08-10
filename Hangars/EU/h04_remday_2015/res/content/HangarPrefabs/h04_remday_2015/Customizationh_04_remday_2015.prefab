@@ -1,0 +1,91 @@
+{
+	"__type__": "cgf::PrefabResource::RawData",
+	"objects": {
+		"children": [
+			{
+				"children": [
+					{
+						"components": {
+							"BW::CameraComponent": {
+								"Rotation sensitivity": 0.005,
+								"fluency": 0.1,
+								"name": "Customization",
+								"zoomSensitivity": 0.003,
+								"disabledDomains": [
+									"Server"
+								]
+							},
+							"BW::OrbitComponent": {
+								"distLimits": {
+									"x": 1.0,
+									"y": 9.5
+								},
+								"pitchLimits": {
+									"x": -80.0,
+									"y": -6.5
+								},
+								"requestRecalc": false,
+								"startDist": 9.5,
+								"startPitch": -22.0,
+								"startYaw": 30.0,
+								"yawLimits": {
+									"x": -180.0,
+									"y": 180.0
+								},
+								"disabledDomains": [
+									"Server"
+								]
+							},
+							"cgf::TransformComponent": {
+								"position": {
+									"x": 4.40412,
+									"y": 3.55876,
+									"z": 7.62817
+								},
+								"rotation": {
+									"x": 21.999975051197243,
+									"y": -149.9997778074544,
+									"z": 0.0
+								},
+								"disabledDomains": [
+									"Server"
+								]
+							}
+						},
+						"name": "CustomizationCamera",
+						"uuid": "052e0c98-473d-4168-a55a-3344bd1e682f"
+					}
+				],
+				"components": {
+					"cgf::TransformComponent": {
+						"position": {
+							"x": 0.0,
+							"y": 0.1,
+							"z": 0.0
+						},
+						"rotation": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"disabledDomains": [
+							"Server"
+						]
+					}
+				},
+				"name": "CameraTarget",
+				"uuid": "b30b9646-3c6a-4b62-8dbe-fd116d443142"
+			}
+		],
+		"components": {
+			"cgf::TransformComponent": {
+				"disabledDomains": [
+					"Server"
+				]
+			}
+		},
+		"uuid": "00000000-0000-0000-0000-000000000000"
+	},
+	"version": 5,
+	"versionModules": {}
+}

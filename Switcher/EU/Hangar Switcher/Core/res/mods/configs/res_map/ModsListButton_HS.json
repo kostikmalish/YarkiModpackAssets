@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Layout",
+        "path": "coui://gui/gameface/mods/yarki33/ModsListButton/ModsListButton.html",
+        "parameters": {
+            "extension": "",
+            "entrance": "ModsListButton_HS",
+            "impl": "gameface"
+        },
+        "itemID": "ModsListButton_HS"
+    }
+]
