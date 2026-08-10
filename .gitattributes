@@ -10,3 +10,6 @@ manifest/mods-manifest.json text eol=lf
 Hangars/** -text
 manifest/version.txt text eol=lf
 Switcher/** -text
+mods/Hangars/** -text
+mods/Switcher/** -text
+mods/OpenWGtemp/** -text
