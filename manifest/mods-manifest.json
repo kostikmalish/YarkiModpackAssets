@@ -8874,8 +8874,8 @@
                                           "component":  "remday",
                                           "path":  "mods/Hangars/EU/h04_remday_2015/res/content/HangarPrefabs/h04_remday_2015/HeroTank_h04_remday_2015.prefab",
                                           "relative_path":  "content/HangarPrefabs/h04_remday_2015/HeroTank_h04_remday_2015.prefab",
-                                          "size":  7136,
-                                          "sha256":  "131aaa2275c32580b327495b31cc13a13c7d1d90f46a85b78d36a490da5695e1"
+                                          "size":  3423,
+                                          "sha256":  "51bd644d1b708e42f63655efc7b1dfcccd20fd9f7554547f153b5cc400ac300c"
                                       },
                                       {
                                           "component":  "remday",
@@ -11119,6 +11119,13 @@
                                       },
                                       {
                                           "component":  "remday",
+                                          "path":  "mods/Hangars/EU/h04_remday_2015/res/scripts/client/gui/mods/mod_yarki33_preview_h04_remday.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/mod_yarki33_preview_h04_remday.pyc",
+                                          "size":  1950,
+                                          "sha256":  "78a7ca29ffef9f56d39e10ecdc4d970d7f1b00fe3ebdd4b7d951dc810885d0ba"
+                                      },
+                                      {
+                                          "component":  "remday",
                                           "path":  "mods/Hangars/EU/h04_remday_2015/res/spaces/h04_remday_2015/00000000o.cdata_processed",
                                           "relative_path":  "spaces/h04_remday_2015/00000000o.cdata_processed",
                                           "size":  70392,
@@ -11619,7 +11626,7 @@
                                           "path":  "mods/Hangars/EU/h04_remday_2015/res/spaces/h04_remday_2015/space.bin",
                                           "relative_path":  "spaces/h04_remday_2015/space.bin",
                                           "size":  4945051,
-                                          "sha256":  "e6a6b4f2dc4fe618e3e0911860532852c0e9dad20c366166c202bc876f8c6905"
+                                          "sha256":  "aedc3816466968687060807eee7141dff177edbd7ad55021b73c551c49bdb658"
                                       },
                                       {
                                           "component":  "remday",
@@ -16315,8 +16322,8 @@
                                           "component":  "v3",
                                           "path":  "mods/Hangars/EU/hangar_v3/res/content/HangarPrefabs/hangar_v3/HeroTank_hangar_v3.prefab",
                                           "relative_path":  "content/HangarPrefabs/hangar_v3/HeroTank_hangar_v3.prefab",
-                                          "size":  7146,
-                                          "sha256":  "c211840b732b536ac91e1ffe52cb928c0f66ad1b1d17619d9944470791fbd4aa"
+                                          "size":  3527,
+                                          "sha256":  "683b79a4d161684488a1e1be3b90c6c6b0db5be25f520725ecba5d050f93b4a6"
                                       },
                                       {
                                           "component":  "v3",
@@ -16765,6 +16772,13 @@
                                           "relative_path":  "scripts/client/gui/mods/mod_authors_bg.pyc",
                                           "size":  422,
                                           "sha256":  "030624fbf46ec2c92b35ee7c9183fccbfce932226fcc6decb50ec4c3bbe32ae9"
+                                      },
+                                      {
+                                          "component":  "v3",
+                                          "path":  "mods/Hangars/EU/hangar_v3/res/scripts/client/gui/mods/mod_yarki33_preview_hangar_v3.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/mod_yarki33_preview_hangar_v3.pyc",
+                                          "size":  1930,
+                                          "sha256":  "d3f6b88a70b743d490ffe64ac9092e4c46d992e3224cb1b5dc94d0d553f07056"
                                       },
                                       {
                                           "component":  "v3",
