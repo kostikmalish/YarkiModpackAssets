@@ -3957,6 +3957,13 @@
                                       },
                                       {
                                           "component":  "v3",
+                                          "path":  "mods/Hangars/RU/hangar_v3/res/content/hangar_premium_2018/Hangars/h21_customization/hd_han21_customization_Alpha_AM.dds",
+                                          "relative_path":  "content/hangar_premium_2018/Hangars/h21_customization/hd_han21_customization_Alpha_AM.dds",
+                                          "size":  174904,
+                                          "sha256":  "9c842578e37434720c0c69dede347f3b206d288366ccaafd829a83a5d29c4855"
+                                      },
+                                      {
+                                          "component":  "v3",
                                           "path":  "mods/Hangars/RU/hangar_v3/res/content/hangar_premium_2018/Hangars/h21_customization/hd_han21_customization_Alpha_AM_hd.dds",
                                           "relative_path":  "content/hangar_premium_2018/Hangars/h21_customization/hd_han21_customization_Alpha_AM_hd.dds",
                                           "size":  174904,
@@ -8250,8 +8257,8 @@
                                           "component":  "v3",
                                           "path":  "mods/Hangars/RU/hangar_v3/res/spaces/hangar_v3/space.bin",
                                           "relative_path":  "spaces/hangar_v3/space.bin",
-                                          "size":  9508089,
-                                          "sha256":  "eee9b8922cf0a97aadb336ef1406e368866f231c895625d7d3685784d98e56e0"
+                                          "size":  9504125,
+                                          "sha256":  "8c1b302fb981043e3a58a0ee6589ae6aa441e6a90d97ca32b3e0ba51b89a91a0"
                                       },
                                       {
                                           "component":  "v3",
