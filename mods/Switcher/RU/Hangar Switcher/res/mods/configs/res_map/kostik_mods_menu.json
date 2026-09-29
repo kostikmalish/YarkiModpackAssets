@@ -1,0 +1,22 @@
+[
+  {
+    "itemID": "mods/kostik_mods_menu/button",
+    "type": "Layout",
+    "path": "coui://gui/gameface/mods/kostik_mods_menu/ModsMenuButton.html",
+    "parameters": {
+      "extension": "",
+      "entrance": "KostikModsMenuButton",
+      "impl": "gameface"
+    }
+  },
+  {
+    "itemID": "mods/kostik_mods_menu/popover",
+    "type": "Layout",
+    "path": "coui://gui/gameface/mods/kostik_mods_menu/ModsMenuPopover.html",
+    "parameters": {
+      "extension": "",
+      "entrance": "KostikModsMenuPopover",
+      "impl": "gameface"
+    }
+  }
+]

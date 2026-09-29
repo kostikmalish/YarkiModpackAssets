@@ -1,0 +1,12 @@
+[
+  {
+    "itemID": "mods/kostik_hangar_switcher/layout",
+    "type": "Layout",
+    "path": "coui://gui/gameface/mods/kostik_hangar_switcher/HangarStudio.html",
+    "parameters": {
+      "extension": "",
+      "entrance": "KostikHangarSwitcher",
+      "impl": "gameface"
+    }
+  }
+]
