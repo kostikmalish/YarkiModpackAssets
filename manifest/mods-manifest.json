@@ -8577,262 +8577,1004 @@
                                       },
                                       {
                                           "component":  "switcher-openbeta",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/index.css",
-                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/index.css",
-                                          "size":  2382,
-                                          "sha256":  "ce214b44356ae749d1c27c7f6ab9f2cf70e10f21e1b49c139a667628d9bb36f2"
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/content/HangarPrefabs/MapsPrefabHM/Customization_MapsHM.prefab",
+                                          "relative_path":  "content/HangarPrefabs/MapsPrefabHM/Customization_MapsHM.prefab",
+                                          "size":  10919,
+                                          "sha256":  "fe60a50c219a21a05998c12103a6150f7d2b7ee9b841e34ebe6b0aa047083e82"
                                       },
                                       {
                                           "component":  "switcher-openbeta",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/index.html",
-                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/index.html",
-                                          "size":  766,
-                                          "sha256":  "2ac271410c67bf31fb0b1e4d77efc1fa7dbff77a1592705104f9b4bb55e0bdcd"
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/content/HangarPrefabs/MapsPrefabHM/Tank_MapsHM.prefab",
+                                          "relative_path":  "content/HangarPrefabs/MapsPrefabHM/Tank_MapsHM.prefab",
+                                          "size":  11231,
+                                          "sha256":  "cc11ea268a79705fe11434ca2ebd71f0a94c375095f99ba0f373c7b6efff3511"
                                       },
                                       {
                                           "component":  "switcher-openbeta",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/index.js",
-                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/index.js",
-                                          "size":  98017,
-                                          "sha256":  "b68bb31912cea3c7ff1b5170952cf4e223454c176d2d660519cc3576fc1f059d"
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/flash/kostikModsMenu.swf",
+                                          "relative_path":  "gui/flash/kostikModsMenu.swf",
+                                          "size":  3358,
+                                          "sha256":  "9139d0fae7f9bea5eeb1974fd7d2303d6f03ba376f7cdf5c323bb20a2d70c2bc"
                                       },
                                       {
                                           "component":  "switcher-openbeta",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/configs/res_map/HangarSwitcher.json",
-                                          "relative_path":  "mods/configs/res_map/HangarSwitcher.json",
-                                          "size":  190,
-                                          "sha256":  "9880aac0ec917523b27a4ed8fe8816bfc2a34906723bf1658ff3bc86d682a6bb"
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/fonts/PFDINMax-CompressedBold.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/fonts/PFDINMax-CompressedBold.ttf",
+                                          "size":  205292,
+                                          "sha256":  "3669308d8b9947a15ae2fdeb96cb1c2e3ed1bac201ee89547b2987bda08bb6a7"
                                       },
                                       {
                                           "component":  "switcher-openbeta",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/mod_kostik_hangar_switcher.pyc",
-                                          "relative_path":  "scripts/client/gui/mods/mod_kostik_hangar_switcher.pyc",
-                                          "size":  14298,
-                                          "sha256":  "c4919f7934f0284c8a642088b5670f08e853fd97bad496e66bcff7c0045108d3"
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/fonts/PFDINMax-CompressedMedium.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/fonts/PFDINMax-CompressedMedium.ttf",
+                                          "size":  207216,
+                                          "sha256":  "a7c8194df36ac85c15d47f8cd4cd5143a7e8e0e8bd92160bca353857d2af4e75"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/gui/flash/modsListButton_HS.swf",
-                                          "relative_path":  "gui/flash/modsListButton_HS.swf",
-                                          "size":  14756,
-                                          "sha256":  "49ab61067e2ac8fbe4ab3f154731853db37760a1cb2b1e3c0b634f310a3b5ebd"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/fonts/Tahoma.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/fonts/Tahoma.ttf",
+                                          "size":  919260,
+                                          "sha256":  "9af03d4ad44a3b413d92f7de48b94aa7cc8a1471a75d498406eae837f62ee1d1"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/gui/flash/modsListPopover_HS.swf",
-                                          "relative_path":  "gui/flash/modsListPopover_HS.swf",
-                                          "size":  22351,
-                                          "sha256":  "53d0706b5c570b18d76694d5cc4188c1828dbfadff7d470c89cb8241fcc8f88f"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/fonts/ZurichCond.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/fonts/ZurichCond.ttf",
+                                          "size":  158660,
+                                          "sha256":  "9f494b1c7d9dfecf57c4e7ff7e87b0e49339b3e2b8ad2c03ae0893f1052fd75a"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/gui/maps/modslist/default-mod-icon_HS.png",
-                                          "relative_path":  "gui/maps/modslist/default-mod-icon_HS.png",
-                                          "size":  2149,
-                                          "sha256":  "a9248fae2ba506202ee7b28746fe19983ddefc5c8827b746173ca56e4f1fbb3d"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/fonts/ZurichCondBold.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/fonts/ZurichCondBold.ttf",
+                                          "size":  163412,
+                                          "sha256":  "3946660d77d44f1b477be8242ae64a1400ebfb61b8c1e858ce7fcafc1afcee04"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/be.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/be.yml",
-                                          "size":  195,
-                                          "sha256":  "eddc9de17218ff3cb11968347a1d0483981f4f7be69feffaf3a9807d9525cf09"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/Fullscreen.css",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/Fullscreen.css",
+                                          "size":  14391,
+                                          "sha256":  "4371db6362ecc281b10710fe3d309f0ffe0a1fb085f11cd01c411008b148708d"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/bg.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/bg.yml",
-                                          "size":  196,
-                                          "sha256":  "e04be653f7f85b245eccde12c2b2d88dc48c3a01bc18df6bd818ef74c5616430"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/HangarStudio.css",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/HangarStudio.css",
+                                          "size":  112309,
+                                          "sha256":  "c81c17c9da3722f587787d79f9bee5b7ccf6674477e32818e28476e318b0d06d"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/cs.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/cs.yml",
-                                          "size":  120,
-                                          "sha256":  "fc4fa5fccb50123f5aacb5487535feac2efff60b45819043f118d102b221fcbb"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/HangarStudio.html",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/HangarStudio.html",
+                                          "size":  354,
+                                          "sha256":  "237ee346c37d83d58e715ce0ca8b9a877152310ca2da3924ca36916d8c1dab1d"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/de.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/de.yml",
-                                          "size":  159,
-                                          "sha256":  "410a333de0ceaf71a0ede7e797af34cb6123e1885aa43299588c7d6cabcfb67d"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_hangar_switcher/HangarStudio.js",
+                                          "relative_path":  "gui/gameface/mods/kostik_hangar_switcher/HangarStudio.js",
+                                          "size":  398746,
+                                          "sha256":  "1d7b9442e85a883c1dccc636e6f1f5c794869a96c1841a35d5645c4086975d94"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/el.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/el.yml",
-                                          "size":  161,
-                                          "sha256":  "cbb4e3d1304517e9db03b078843beced9a8d792f1a1a7290da2e3728f659339e"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_mods_menu/fonts/ZurichCondBold.ttf",
+                                          "relative_path":  "gui/gameface/mods/kostik_mods_menu/fonts/ZurichCondBold.ttf",
+                                          "size":  163412,
+                                          "sha256":  "3946660d77d44f1b477be8242ae64a1400ebfb61b8c1e858ce7fcafc1afcee04"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/en.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/en.yml",
-                                          "size":  137,
-                                          "sha256":  "154fe882e1f9430c631a23407e12bed72ca3e79dda1546fc4b3756562ce85635"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_mods_menu/ModsMenu.css",
+                                          "relative_path":  "gui/gameface/mods/kostik_mods_menu/ModsMenu.css",
+                                          "size":  4313,
+                                          "sha256":  "c2313d1547e8d30c523c5b76b84f84a501c91d248b5fbdd423aa2b92146f45bb"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/es.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/es.yml",
-                                          "size":  143,
-                                          "sha256":  "fbd906c5315a9c4439384d5afc2fd2dc6a73d81757a3fcb6d17fbad16172712f"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_mods_menu/ModsMenu.js",
+                                          "relative_path":  "gui/gameface/mods/kostik_mods_menu/ModsMenu.js",
+                                          "size":  130991,
+                                          "sha256":  "f20fb3ff3bbc5398ae4c145c242c8a71bef19b521e39a1a864e76ced37f09902"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/es_ar.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/es_ar.yml",
-                                          "size":  142,
-                                          "sha256":  "651f4b83a25cff911fd50f4e911b9ed35c01de62b7fc3a3f47bb41f99fd57564"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_mods_menu/ModsMenuButton.html",
+                                          "relative_path":  "gui/gameface/mods/kostik_mods_menu/ModsMenuButton.html",
+                                          "size":  338,
+                                          "sha256":  "059178fef5e8185ad87b8edeafb094f29030fce20e4ec4c7e94d3280e7134e09"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/et.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/et.yml",
-                                          "size":  137,
-                                          "sha256":  "4c545156e7d16e4cfe33a1f456ebce24789f92bd0150d1ca34c157d12ef944f7"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/gameface/mods/kostik_mods_menu/ModsMenuPopover.html",
+                                          "relative_path":  "gui/gameface/mods/kostik_mods_menu/ModsMenuPopover.html",
+                                          "size":  337,
+                                          "sha256":  "5b473ae283ee5b29c8f5b026de5a340d1690af256d57a556db71a8e50d118f4d"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/fi.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/fi.yml",
-                                          "size":  116,
-                                          "sha256":  "a2e8cfa9b66d587a5da6cecdb64fa69ac38423a10d0b2bb36f4f290e89299a67"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/hangars/absent/absent.jpg",
+                                          "relative_path":  "gui/maps/icons/hangars/absent/absent.jpg",
+                                          "size":  159007,
+                                          "sha256":  "b0ed6f5d99c48f4e21bd6fd824f847bd949e9202df199168c478d77139c62815"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/fr.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/fr.yml",
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/hangars/absent/absent_thumb.jpg",
+                                          "relative_path":  "gui/maps/icons/hangars/absent/absent_thumb.jpg",
+                                          "size":  7845,
+                                          "sha256":  "94e6dc345bb40c24edd4ac161c64711a58712c304bfcf4564a6465ea7d66c79d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/hangars/base/base.jpg",
+                                          "relative_path":  "gui/maps/icons/hangars/base/base.jpg",
+                                          "size":  288820,
+                                          "sha256":  "18b25621485fc3d1b766959ce881591121943e2a8808407a456831aa59de1150"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/hangars/base/base_thumb.jpg",
+                                          "relative_path":  "gui/maps/icons/hangars/base/base_thumb.jpg",
+                                          "size":  16535,
+                                          "sha256":  "029c70cb0ff45e9b12ad4272ecf96c376f303abf34805b72a4ac5367342ebca6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/buttonBg.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/buttonBg.png",
+                                          "size":  3166,
+                                          "sha256":  "460ccdf77939d8e6c804bc38e624bb2e139856f549c118dc5d0f59ded5ea58c4"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/buttonIcon.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/buttonIcon.png",
+                                          "size":  1231,
+                                          "sha256":  "c019cad8a95ca16c801ce2cb07e90a128a986317d7c561c1a516e09993deaa40"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/defaultMod.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/defaultMod.png",
+                                          "size":  1795,
+                                          "sha256":  "7a4277d549e0aa2dab31e9d61fa0921e6ddf4c5e9b847156a0aaf38924cab36b"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/rowDisabled.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/rowDisabled.png",
+                                          "size":  11073,
+                                          "sha256":  "99f92b4f6cdc844c5c6cb11af9edc95410bf1c18205c577f3aa02fb13200ed1d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/rowOver.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/rowOver.png",
+                                          "size":  3798,
+                                          "sha256":  "8909d79fadc646ca55df60d333678298b14b1849ed4186b580d50555b23bf61c"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/kostikModsMenu/rowUp.png",
+                                          "relative_path":  "gui/maps/icons/kostikModsMenu/rowUp.png",
+                                          "size":  3313,
+                                          "sha256":  "8e06774eaa1a6d447813dd73ca30c4d1301ac371cd4885560bb16d3ccb4fab56"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/camera.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/camera.svg",
+                                          "size":  577,
+                                          "sha256":  "9e6f4c1cdc06159d948cef2de270cc98227be815f412d6d5e76becedfed5933d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/chevron-down.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/chevron-down.svg",
+                                          "size":  152,
+                                          "sha256":  "8850d8953e0f3a45c0121f6998a4e9f7c6340f7fe568ff6fc43b309b2402e114"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/chevron-left.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/chevron-left.svg",
+                                          "size":  135,
+                                          "sha256":  "f228ebd390d88f6027484e6fc0accb86fbc5bd9f33e7b2e15d249355a29e3690"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/close.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/close.svg",
+                                          "size":  183,
+                                          "sha256":  "30ae7ff86730bf84b890652df3511568216dec11adf738752b086e738440e8c1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/folder.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/folder.svg",
+                                          "size":  154,
+                                          "sha256":  "4c19988508e0a5ff5c209368feec7b5710ada77a5cd0d53d98fae340e01697d2"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/pencil.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/pencil.svg",
+                                          "size":  180,
+                                          "sha256":  "1e9851f272466260e566f2e52c3ad3aeb90abea265ca739cec1f46dded99c11c"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/pin.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/pin.svg",
+                                          "size":  170,
+                                          "sha256":  "2ced2d6d8e502c155fbfec69debd15bc6bfd0ea3c632d87de26599e79f2af54d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/refresh-list.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/refresh-list.svg",
+                                          "size":  219,
+                                          "sha256":  "d5bfeba56ab1834b05798d61f307eed2d7e21c155c5708c65409f66140a38526"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/restore.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/restore.svg",
+                                          "size":  185,
+                                          "sha256":  "5aae617a9cc6e06a83a3ae26546d8fc86a26825a1e40ddff2b16bb4a75835954"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/search.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/search.svg",
+                                          "size":  214,
+                                          "sha256":  "f394b631eff1ff0e9e188403822f77822416ec9232466090e9e4d4dc27949b01"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/actions/trash-red.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/actions/trash-red.svg",
+                                          "size":  194,
+                                          "sha256":  "10d3da52c62c931851cb36f5d7b54e92a1ecf0f526c829b5e0712bbfc4994ee6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/logo/modsListIcon.png",
+                                          "relative_path":  "gui/maps/icons/switcher/logo/modsListIcon.png",
+                                          "size":  3566,
+                                          "sha256":  "2002077a2f7dae8db0034659fe3a25be0da59d3f5b98193eaa11ddd3b0659154"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/meta/check.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/meta/check.svg",
+                                          "size":  150,
+                                          "sha256":  "c3296eb0cc66de2ad9384a0823959578be48a932ade1985792b32d6be2dd7df1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/meta/check-circle-green.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/meta/check-circle-green.svg",
+                                          "size":  240,
+                                          "sha256":  "d66441c825b49b49f50e6135bdba89e9a981400717f3765853325324154f4144"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/meta/check-gold.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/meta/check-gold.svg",
+                                          "size":  150,
+                                          "sha256":  "1677f0457bc116ceca82102b5165e53bcd26f1b49fcbf6199e115b7693e46b25"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/other/info-circle.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/other/info-circle.svg",
+                                          "size":  224,
+                                          "sha256":  "fbfaaa1b7be6d8521c491508dec25decc739fae717a8e5525cd14afe5755f2e7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/arrow-disabled.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/arrow-disabled.png",
+                                          "size":  242,
+                                          "sha256":  "6122cfd1039c81833df10e57c0470bbf4d2c53e7954dce5d67132fae654997d7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/arrow-down.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/arrow-down.png",
+                                          "size":  269,
+                                          "sha256":  "e67f5b6f73adddae57bfc8ee16f04802b33c2ddc08c3bcd496a543ea35037a93"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/arrow-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/arrow-over.png",
+                                          "size":  276,
+                                          "sha256":  "0b510915b9e77c0cacb27db6481191e07f8be2ace1e90b05df401846c8e0d9cd"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/arrow-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/arrow-up.png",
+                                          "size":  268,
+                                          "sha256":  "fade2dcf3c21dd04aa8452672c0947ce920fd6ecb4c9c241861b32c6bff130db"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/background-composed.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/background-composed.png",
+                                          "size":  592082,
+                                          "sha256":  "563182c935c05c0699e90af15d39000dd5ed2b5f1d94929a26ee0f6416b0e8da"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-black-down.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-black-down.png",
+                                          "size":  5116,
+                                          "sha256":  "fda2da53e91e312332758ce5dd069d410f7cfab62982b6a7911c3cd0bc9e1e38"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-black-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-black-over.png",
+                                          "size":  6041,
+                                          "sha256":  "50121f97f3d8b470c5f47052c96e7fd2755b290f600e579bcb437a84217bb35a"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-black-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-black-up.png",
+                                          "size":  5678,
+                                          "sha256":  "9007676abfd2bda71fdbf7694b186195317ef10260cf57621f510a2a1d984a3c"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-red-down.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-red-down.png",
+                                          "size":  4606,
+                                          "sha256":  "ada538a15e1b8be4d8ca72f441b3db09373188872b5faf3ff9b41f3ef7bbf078"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-red-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-red-over.png",
+                                          "size":  4911,
+                                          "sha256":  "d6b6cf9da377a9f6f2d9b088a68620e2c3bc5f2cda3214616d01a46ede781da1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/button-red-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/button-red-up.png",
+                                          "size":  4907,
+                                          "sha256":  "f4e3e7db3e326884c2e20199fa2224761defe8b2155cbca75074c1f4a738d3bf"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/close-down.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/close-down.png",
+                                          "size":  997,
+                                          "sha256":  "6649c5f99e5deb1649958d177e23f05798641b7ad570306d98687897796d4f7f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/close-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/close-over.png",
+                                          "size":  996,
+                                          "sha256":  "6e4cb115aca33d4f1529cb6cb373bb96bd6a744120f12e511efced40b0a5aea1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/close-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/close-up.png",
+                                          "size":  814,
+                                          "sha256":  "8702644f13ac7c025940ade01a93eb99f2e59fefdfe48903ef61d9bb60b97ca6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/grip-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/grip-up.png",
+                                          "size":  103,
+                                          "sha256":  "ee3217326aab10e7e31e3b89faf1b5fe2b31b99ece57b818c457ff53c71c550e"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/image-row-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/image-row-over.png",
+                                          "size":  4288,
+                                          "sha256":  "8a0f0ca8c57d76fccb9e2159fda4c2a57f2ecfd281aee10506f449239da9ee1f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/image-row-selected_up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/image-row-selected_up.png",
+                                          "size":  4288,
+                                          "sha256":  "8a0f0ca8c57d76fccb9e2159fda4c2a57f2ecfd281aee10506f449239da9ee1f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/list-background-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/list-background-up.png",
+                                          "size":  89398,
+                                          "sha256":  "8eebb80f0bd9382951ce6385068064aad5f36a4bd9825ad15a5110f741855c9d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/list-row-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/list-row-over.png",
                                           "size":  133,
-                                          "sha256":  "edd21377e65827bfbb6554e2699be0f0399b161840551497978829a3845cb5ff"
+                                          "sha256":  "b72a23fbcf49badfeee67c0404075da1c95b31101f93e054729d374a0be3de48"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/hr.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/hr.yml",
-                                          "size":  118,
-                                          "sha256":  "2ded2c8e12e2d856d98b8167ccc13de9bab09b58150e20dc11b79292f32cb02e"
-                                      },
-                                      {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/hu.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/hu.yml",
-                                          "size":  104,
-                                          "sha256":  "c037666538158ef17df28ddd33e3c96e174170b4048acbed5a48122977343dec"
-                                      },
-                                      {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/it.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/it.yml",
-                                          "size":  120,
-                                          "sha256":  "720e0d9ca0f43e38fe0b6313c519442a09008f7abc37440f3de9ab7ac8b58798"
-                                      },
-                                      {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/ja.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/ja.yml",
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/list-row-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/list-row-up.png",
                                           "size":  124,
-                                          "sha256":  "46a69027e907f6beae76153321488904245656b639399a07a725a4fe088214a7"
+                                          "sha256":  "b1bd512846fe52591570b43f3cdb58aebf547eea2f5133a0e26464bba58ffcd5"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/kk.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/kk.yml",
-                                          "size":  164,
-                                          "sha256":  "58b9fb28458c9815d3ee0ad62257d447ef299d70e7075d29026573ea125be1de"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/panel.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/panel.png",
+                                          "size":  21620,
+                                          "sha256":  "a534284b161d262d9898e54e8d5dde695cbef656d38526db51e9f9aa5489882d"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/lt.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/lt.yml",
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/popup-default.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/popup-default.png",
+                                          "size":  465,
+                                          "sha256":  "8b74a2c23323aa737ba9227c111daea1b25b642b70569859b924bf743f8df317"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/row.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/row.png",
+                                          "size":  5613,
+                                          "sha256":  "c57139cac12e90e2affe6307b195a8d89abedee8aaeac3263e87b55e90c54d28"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/row-map-overlay.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/row-map-overlay.png",
+                                          "size":  24236,
+                                          "sha256":  "52d527fbae3df3fb5ba962dd4cb19b9026eda4647d8c80cd8ce8c7919519b080"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/row-selected.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/row-selected.png",
+                                          "size":  107805,
+                                          "sha256":  "bbc7ee7c40231c2fa743423bb933aacbe9dacfdcfbe96353a768d4fb761e3c4e"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/select-over.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/select-over.png",
+                                          "size":  3012,
+                                          "sha256":  "586717907ec5d53f925258ad4e94fff6b6e7cc28e20a89b2b7edf5904ea95dba"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/select-selected_up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/select-selected_up.png",
+                                          "size":  2980,
+                                          "sha256":  "1cecec9061153d125158125499118a334e5ded993c0a0eb1430a8202c35bcc27"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/select-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/select-up.png",
+                                          "size":  2948,
+                                          "sha256":  "c6425101e9bec96a7b35799de2cb298f87838f6efdffbe64940ce8fe886e2cb7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/text-input-default.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/text-input-default.png",
+                                          "size":  2402,
+                                          "sha256":  "0aa9619d0194076d453872231516bf66c08a5ea94d6860b43772808b938d8d6c"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/thumb-b-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/thumb-b-up.png",
+                                          "size":  99,
+                                          "sha256":  "9f31694ccfb276947bdd57287a1c0b0f70e99d1dd67d7b9440b2a593d4377b97"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/thumb-m-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/thumb-m-up.png",
+                                          "size":  88,
+                                          "sha256":  "2460b5d5af4a982ae52cde93b63924dc9c209871fcb6d5a877ba236ffd8efeb4"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/thumb-t-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/thumb-t-up.png",
+                                          "size":  96,
+                                          "sha256":  "1f568f675501ae245a601ccdc486244d261037f9cd50d1ff2648421301d03918"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/toggle-off.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/toggle-off.png",
+                                          "size":  141,
+                                          "sha256":  "bfe6a53afecf6d96f1551aea1b077907cada29643e7aa4d6295390bcd6794e5f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/toggle-on.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/toggle-on.png",
+                                          "size":  643,
+                                          "sha256":  "b5d4a36795e0ddd8abf923b16eb257aa3927a8ce91b484cefc5c9a55c17e29d5"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/track-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/track-up.png",
+                                          "size":  75,
+                                          "sha256":  "9bf0e9b57c065f982a514ba3dcde399a92eb30a5c3b20d81e8f2bf0969746eb3"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/rm/window-up.png",
+                                          "relative_path":  "gui/maps/icons/switcher/rm/window-up.png",
+                                          "size":  249669,
+                                          "sha256":  "5155bd1d2b2924b4aaf205588cb53de77f21560cc87e2c098f15dc38074f0be1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/all-hangars.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/all-hangars.svg",
+                                          "size":  225,
+                                          "sha256":  "7b7fdb7fc2de650380466a8390a0c9864c267e0e77df0521a7d952391c336a9e"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/favorites.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/favorites.svg",
+                                          "size":  261,
+                                          "sha256":  "ee41149758495bc2f5dc87481280ad9e1ec7db2a964409f0e318101aa0d97c84"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/favorites-card.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/favorites-card.svg",
+                                          "size":  261,
+                                          "sha256":  "ee41149758495bc2f5dc87481280ad9e1ec7db2a964409f0e318101aa0d97c84"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/favorites-card-active.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/favorites-card-active.svg",
+                                          "size":  192,
+                                          "sha256":  "ed21d82051de61cd125f53e5af3c3ae9bd28a8754f7b512c877d02d5de83ab58"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/game.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/game.svg",
+                                          "size":  192,
+                                          "sha256":  "c876fb223bea157b9eb4c3db18aefaa0d6117bddefbebf7cffe71750cf66e24a"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/installed.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/installed.svg",
+                                          "size":  169,
+                                          "sha256":  "2204e1d66d74ac3ecfd115bc02e2373eca51fd6d4edca25304923d3789bb3736"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/settings.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/settings.svg",
+                                          "size":  252,
+                                          "sha256":  "c67ef32ab54ed037dfbcb0b37640a23383007b20f374df7c0315ce00197b725f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/tabs/trash.svg",
+                                          "relative_path":  "gui/maps/icons/switcher/tabs/trash.svg",
+                                          "size":  194,
+                                          "sha256":  "24807e1ce5a1827f79c692ab64e07e8b723c2338a0973e792d97a2cdb644435a"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/personal-green-direction.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/personal-green-direction.png",
+                                          "size":  2728,
+                                          "sha256":  "8f17ac813605ce086e9aec11a6a74abdaa3e7ab8d65b73735cabb51b006129f8"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/primary-background.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/primary-background.png",
+                                          "size":  167723,
+                                          "sha256":  "356b72529bd93d4beba28358ec42a728cbd8c5c0168af03fc0f0e8725f2188c6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/surface-field.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/surface-field.png",
+                                          "size":  2183810,
+                                          "sha256":  "60238921c274989d76429553d50530e415922cef0a5b77f6c73feab0af1b25a4"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/surface-fullscreen.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/surface-fullscreen.png",
+                                          "size":  6203391,
+                                          "sha256":  "60a05871179b0910b1ed89345ac2f18e5b5621a91d120aed6feb7692e0b8fa76"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/wg-tabs-border_inner.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/wg-tabs-border_inner.png",
+                                          "size":  781,
+                                          "sha256":  "dfbfe834102c75d50d017abe8f79ffb9141f38e802f0d5b09cbb7527437910c1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/gui/maps/icons/switcher/theme/wg-tabs-pattern.png",
+                                          "relative_path":  "gui/maps/icons/switcher/theme/wg-tabs-pattern.png",
+                                          "size":  928039,
+                                          "sha256":  "2c14a78a98727807b932e14d83e3d937e85513dd5dc4fb87efdac036634b05ae"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/configs/res_map/kostik_hangar_switcher.json",
+                                          "relative_path":  "mods/configs/res_map/kostik_hangar_switcher.json",
+                                          "size":  283,
+                                          "sha256":  "d5a2891bfd07931d4948ecad0f14cb108cb793e867fe9605863c57580631eae6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/configs/res_map/kostik_mods_menu.json",
+                                          "relative_path":  "mods/configs/res_map/kostik_mods_menu.json",
+                                          "size":  546,
+                                          "sha256":  "07580129ca94de4f92d239c34a126b964af41cb3d1a13e455203fb610597a2b3"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/be.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/be.yml",
+                                          "size":  134,
+                                          "sha256":  "df9d2817b18118d5e03d7668463620d93d46b16ddad51cd8fa73cc506987a5a7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/bg.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/bg.yml",
                                           "size":  128,
-                                          "sha256":  "0ab729ab66d3699b0cd3690a3443a9b49758de15fa54887332c84bcde63bacb9"
+                                          "sha256":  "c0bf1e027629f0e6a249ec1c7bfab5377dc1678423ebe9488a200ee52334fc83"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/lv.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/lv.yml",
-                                          "size":  142,
-                                          "sha256":  "86831e28a41393f37fac7246d35f3c3c493a004f684113240f28724624455301"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/cs.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/cs.yml",
+                                          "size":  72,
+                                          "sha256":  "e79fbedc423c43f55fcf7e45ef7fcf006c588023c050960d602f3eca254f757f"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/no.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/no.yml",
-                                          "size":  124,
-                                          "sha256":  "9ffef837fe8aca28d49023dc018ccc11d6d58892f72f19c028ae48cfab69e608"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/de.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/de.yml",
+                                          "size":  94,
+                                          "sha256":  "519503569db5767f930ac155e1b93d20395c069517a793201079d1a5cd1a3244"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/pl.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/pl.yml",
-                                          "size":  126,
-                                          "sha256":  "409cca09a02d7816e731dd4a39adfa9c2d257c71bd0219ce2cbffa3ddd6f2857"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/el.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/el.yml",
+                                          "size":  107,
+                                          "sha256":  "763bb8cf8a2c01022b0a7276c0820440b838e91f180827fc4c868c6d87ecaa43"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/pt.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/pt.yml",
-                                          "size":  136,
-                                          "sha256":  "7990532a091fdf50256222c4397139d5410af49fae2cafae80fab7974368e886"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/en.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/en.yml",
+                                          "size":  89,
+                                          "sha256":  "cb05cc65b9fdc84de339923e2cb045573b8e827b42f6b1f94f0d1c3c562e0458"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/pt_br.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/pt_br.yml",
-                                          "size":  142,
-                                          "sha256":  "90f980066efdaab5d320025a1cec27c63cc51689742b891337b81d31a94e57b4"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/es.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/es.yml",
+                                          "size":  88,
+                                          "sha256":  "7eb4b894ba3ca9dd833fd392af1b1316cb7a99d02fb1a048c25830f64012c744"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/ro.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/ro.yml",
-                                          "size":  109,
-                                          "sha256":  "bff7df8bd74a87674520f2c2778b9e5c74d74e8b3ad043d5b594e7c0291914c1"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/es_ar.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/es_ar.yml",
+                                          "size":  89,
+                                          "sha256":  "46ff0e3b11acac1b2f659f059b1d9df234df2b87deb7c4baf60e2457953deead"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/ru.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/ru.yml",
-                                          "size":  209,
-                                          "sha256":  "08f3d6252c963cd86fe447baae8fbd37e8570728ff67d10ba7d4afe88e599ee0"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/et.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/et.yml",
+                                          "size":  81,
+                                          "sha256":  "616c743f2f66f8b89f87190b75985d8f276521bbc38723ac3ea851df3db06e5e"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/sv.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/sv.yml",
-                                          "size":  121,
-                                          "sha256":  "aafe5d5878b267ceae04c509245457de13cfc906666052ccae18d95be9408140"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/fi.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/fi.yml",
+                                          "size":  68,
+                                          "sha256":  "b14c63aafd27b6cde98ee69a5952aa1f0f76c6d256e1883d89040a57e77df91a"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/tr.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/tr.yml",
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/fr.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/fr.yml",
+                                          "size":  80,
+                                          "sha256":  "a0bb612dcae4071398f193466e44b7e7dac587dd928371750ec49d05c2c398cf"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/hr.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/hr.yml",
+                                          "size":  73,
+                                          "sha256":  "f2e97c7ddb227b13a0747d909488315651168ada7a0263bd13d36da4c69d395e"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/hu.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/hu.yml",
+                                          "size":  65,
+                                          "sha256":  "9b4fd9d0734c200905d81fbdb4590913f415185fcc59cd98302c59b378134950"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/it.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/it.yml",
+                                          "size":  75,
+                                          "sha256":  "c4372826ecd1478ef4df539508a73f923c9f474223719cfd2763cf4f588014a9"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/ja.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/ja.yml",
+                                          "size":  84,
+                                          "sha256":  "77c57ebb5c9c43e5cc93a03118b1eb78867ead81bec0bc51ee017eef78bee63f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/kk.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/kk.yml",
+                                          "size":  95,
+                                          "sha256":  "3893cb694b290379fda67b71c1ec954633a7fa32c254b122a1f2eecf52e0bf8e"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/lt.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/lt.yml",
+                                          "size":  75,
+                                          "sha256":  "2475988601466cad3b3cf6534e0ab0b768a00d23085216417448eb69530b64cf"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/lv.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/lv.yml",
+                                          "size":  90,
+                                          "sha256":  "dbee79627d3cebfb148337a5cba7e48d262ddc69d05d222f4decba216f1bb8c7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/no.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/no.yml",
+                                          "size":  76,
+                                          "sha256":  "5546a03e75afdf42342c816b5506202cff077e6b7eea449654b6b78b7593d02a"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/pl.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/pl.yml",
+                                          "size":  79,
+                                          "sha256":  "44f4c54b635caee45f5b0bdd2c0cfbd21a6229f18eee57c2732766ec114b0112"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/pt.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/pt.yml",
+                                          "size":  83,
+                                          "sha256":  "af6182fe48599ea05c6e5fc43c3960a23887d6365dc89c0f92db5cf375911693"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/pt_br.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/pt_br.yml",
+                                          "size":  89,
+                                          "sha256":  "eef892484eb1755b954ac684d747471d24b8cb970a37dc640577140994dec3a8"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/ro.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/ro.yml",
+                                          "size":  66,
+                                          "sha256":  "0bb3cc8ff30967112d26895a78bbce96e5de21827f5f70f0dcd18419cc8aa5cb"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/ru.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/ru.yml",
                                           "size":  144,
-                                          "sha256":  "f6e53e03bb2ef3a2380337757b843bdd14c28ef388729079ecd121e60608a7e2"
+                                          "sha256":  "dc5358d845b1a27f052ef5afe059c6aab7ab1d5d5aca4e2dba84a6794f37a6f1"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/uk.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/uk.yml",
-                                          "size":  213,
-                                          "sha256":  "c5c0e4e59c2d29e111a930197c27aafc99a9af8a64e188f48bee694a6aabd910"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/sv.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/sv.yml",
+                                          "size":  73,
+                                          "sha256":  "a1d3163071eb502ef4b2abcbebbc5c478ed63f25ce4c4c6cc53b2ca46fd2363a"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/mods/yarki33.hangarswitcher/text/zh_cn.yml",
-                                          "relative_path":  "mods/yarki33.hangarswitcher/text/zh_cn.yml",
-                                          "size":  124,
-                                          "sha256":  "bd86f6ba12e483b84bb7ea36c9cfe3f6b1cfefd9725f89ddb338b2da7ce54328"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/tr.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/tr.yml",
+                                          "size":  91,
+                                          "sha256":  "f464bf1e01096a0463fea037f537f626cfe8a934242645a65477d6e1af18c139"
                                       },
                                       {
-                                          "component":  "switcher-core",
-                                          "path":  "mods/Switcher/RU/Hangar Switcher/Core/res/scripts/client/gui/modsListApi_HS/__init__.pyc",
-                                          "relative_path":  "scripts/client/gui/modsListApi_HS/__init__.pyc",
-                                          "size":  13620,
-                                          "sha256":  "5b702dd0f308de37c05a12fa472cb8eb551fa8f887bfa20a52cf2be7615937ed"
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/uk.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/uk.yml",
+                                          "size":  148,
+                                          "sha256":  "af2e5db956c6d88196ac9ed25034972b10c1bb0a0fa046d3b1058475e3572a5f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/mods/kostik.modsmenu/text/zh_cn.yml",
+                                          "relative_path":  "mods/kostik.modsmenu/text/zh_cn.yml",
+                                          "size":  82,
+                                          "sha256":  "34a48178f6c258b36510727d5d176136457308d2679f46a165f3a0a3895e9ccd"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/__init__.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/__init__.pyc",
+                                          "size":  23231,
+                                          "sha256":  "dfe0cc192bbfe5570b884b8d31cb753db77673074f81daa4c9694e06d8641a04"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/customization.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/customization.pyc",
+                                          "size":  32368,
+                                          "sha256":  "c96c031409d4851c73d7b989b817fc327a24920f0030313925ea20763e488bc1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/fallback.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/fallback.pyc",
+                                          "size":  97779,
+                                          "sha256":  "074ba05f0035eca0bbd622687472992e0c2c0ceb80e1e8b1f09b474df45c88c6"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/locale.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/locale.pyc",
+                                          "size":  65783,
+                                          "sha256":  "55a9a4935b0a1d1c26618e2096f52b8e4e97764a6f91ade173052fd3cf5cce29"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/metrics.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/metrics.pyc",
+                                          "size":  79876,
+                                          "sha256":  "2e253c60954f71b260420b00f9155f914c7b9589d1a2d2fddaa18c7f59936268"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/pipeline.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/pipeline.pyc",
+                                          "size":  43405,
+                                          "sha256":  "faf529e5fe547f3f5c81c3638a020a610fc7289a0730f9ed4d1df09b05b95372"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/presentation.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/presentation.pyc",
+                                          "size":  46917,
+                                          "sha256":  "f4f4cde6aee8922f23405635f3a01503bca9b42b60639f27af0ef05231ad3d39"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/registry.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/registry.pyc",
+                                          "size":  58618,
+                                          "sha256":  "d21e43b150e46ab25f2f849ac432f8da772fb0780090c7b6e9fff66d61b49a30"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/session.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/session.pyc",
+                                          "size":  94552,
+                                          "sha256":  "b80abeaf1d04b7bf53c9c399f7e360a71004fd2eca66d5c2e2f58ac79fef56a7"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/telemetry.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/telemetry.pyc",
+                                          "size":  64809,
+                                          "sha256":  "dd83189193adb2004a9a98d5a4dc63d7812f7a28940deb4e9caf6f644398b5e1"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/__init__.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/__init__.pyc",
+                                          "size":  17939,
+                                          "sha256":  "f20c74dec1f80ad4dc00e20ccf5a7278dfd78138b7dc7429305dab07603a457a"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/hangarStudioModel.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/hangarStudioModel.pyc",
+                                          "size":  97699,
+                                          "sha256":  "30a92eea7bcd26d0f5e9dc998409015f19102f5be16cf0f44857593a0a9a4849"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/hangarStudioView.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/hangarStudioView.pyc",
+                                          "size":  37210,
+                                          "sha256":  "b1ebeb6bc87823842c399f4e4bdaa640f57a4da6f5a8dee6ba9fb4e54477e655"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/hangarStudioWindow.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/hangarStudioWindow.pyc",
+                                          "size":  55814,
+                                          "sha256":  "b546f02d269352a03b974a09aa08bf4145a92c23f20d1b29bf101cd9051ce3b2"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/layout/__init__.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/layout/__init__.pyc",
+                                          "size":  18659,
+                                          "sha256":  "19063e7b88a27f24f2c5e080744363d3da5dd09921fe097dac20f9e18728c127"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/layout/anchor.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/layout/anchor.pyc",
+                                          "size":  117567,
+                                          "sha256":  "4f3539d84c7660660848e6b765930dd0b874e2fadade8ecb1013f06c1e9f8a3d"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/layout/grid.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/layout/grid.pyc",
+                                          "size":  45686,
+                                          "sha256":  "207d1a370356c12cb87e501530521de085a9fccc3ff6b46d578dac23cbb40c8f"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/hangar_studio/views/layout/slots.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/hangar_studio/views/layout/slots.pyc",
+                                          "size":  18365,
+                                          "sha256":  "d08a60a90b76fd8818af08d95aae73c43dce0e0430128cc1607af6498912e81c"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/mod_hangarStudioLoader.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/mod_hangarStudioLoader.pyc",
+                                          "size":  24168,
+                                          "sha256":  "3f1fc38c63d4fec1deefec84ab7e25bcd90c326ed840c13f9b33c792bc3ded17"
+                                      },
+                                      {
+                                          "component":  "switcher-openbeta",
+                                          "path":  "mods/Switcher/RU/Hangar Switcher/res/scripts/client/gui/mods/mods_menu/mod_kostikModsMenu.pyc",
+                                          "relative_path":  "scripts/client/gui/mods/mods_menu/mod_kostikModsMenu.pyc",
+                                          "size":  82624,
+                                          "sha256":  "dbb9dee5dfc377726bce5f7559f049a9dd5d0715d424a60ab02dfb4f716e5726"
                                       },
                                       {
                                           "component":  "openwgtemp",
