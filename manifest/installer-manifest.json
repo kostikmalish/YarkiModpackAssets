@@ -1,7 +1,7 @@
 {
-    "schema":  1,
-    "version":  "1.44.0.0 #11",
-    "published_at":  "2026-08-12T08:37:44Z",
-    "download_url":  "https://github.com/kostikmalish/YarkiModpackAssets/releases/download/v1.44.0.0-11/YarkiModpackInstaller.exe",
-    "sha256":  "4c7d35c8c899d9cb88c09807a582180560a4048f4e48d9f0323eb4b6ff8278af"
+  "schema": 1,
+  "version": "1.45.0.0 #12",
+  "published_at": "2026-09-30T05:15:51Z",
+  "download_url": "https://github.com/kostikmalish/YarkiModpackAssets/releases/download/v1.45.0.0-12/YarkiModpackInstaller.exe",
+  "sha256": "be6ad7b390399f189153f51592b2678ce93d245ec67009299f71166bb11c2398"
 }
